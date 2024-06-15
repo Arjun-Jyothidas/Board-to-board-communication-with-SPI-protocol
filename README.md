@@ -1,3 +1,4 @@
+# Board-to-board-communication-with-SPI-protocol
 Following repository contains HAL C codes for developing a SPI communication between two boards - a master board and a slave board.
 Only the main source files are added in this repository as the rest of the files are generated automatically by the STMCubeIDE.
 Both the main .c files for respective master and slave board is included in the repository.
